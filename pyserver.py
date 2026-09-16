@@ -24,7 +24,7 @@ class Handler(BaseHTTPRequestHandler):
             id = len(users) + 1
             users.append({ "id": id, "name": body.get("name"), "email": body.get("email")})
             
-            self._send(200, { "message": "User has been added with ID: {id}"})
+            self._send(200, { "message": f"User has been added with ID: {id}"})
         else:
             self._send(400, { "message": "This path is not supported"})
             
