@@ -116,6 +116,11 @@ shopping_manager = ShoppingManager()
 shopping_manager.total_price(shopping_list_1, 20)
 shopping_manager.total_price(shopping_list_2, 15)
 
+
+# DATABASES
+# 1. SQL - Structured Query language
+# 2. NoSQL 
+
         
         
     

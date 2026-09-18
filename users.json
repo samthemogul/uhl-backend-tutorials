@@ -1,0 +1,12 @@
+//  Users COollection
+
+[
+  { "id": 1, "name": "Sam", "email": "sam@gmail.com" },
+  { "id": 2, "name": "Dan", "email": "dan@gmail.com" },
+  { "id": 3, "name": "Tunji", "email": "tunji@gmail.com" }
+]
+| ID.  |.  Name |.  Email
+|1.    | Sam.   |. sam@gmail.com  -----> ROW
+| 2.    | Dan.  |. dan@gmail.com
+         ^
+         COLUMN
