@@ -121,6 +121,11 @@ shopping_manager.total_price(shopping_list_2, 15)
 # 1. SQL - Structured Query language
 # 2. NoSQL 
 
+# | ID.  |.  Name |.  Email
+# |1.    | Sam.   |. sam@gmail.com  -----> ROW
+# | 2.    | Dan.  |. dan@gmail.com
+#          ^
+#          COLUMN
         
         
     
